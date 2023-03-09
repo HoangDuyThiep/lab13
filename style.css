@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.bg-img1 {
+    background-image: url(./OIP.jfif);
+  background-color: #000;
+  background-size: cover;
+}
+.bg-img2 {
+    background-image: url(./anh-nen-may-tinh.jpg);
+    background-color: #000;
+    background-size: cover;
+}
+.bg-img3 {
+    background-image: url(./anh-nen-may-tinh-dep_092407269.jpg);
+    background-color: #000;
+    background-size: cover;
+}
+.carousel-item {
+    height: 700px;
+}
+#myCarousel {
+    margin-bottom: 100px;
+}
